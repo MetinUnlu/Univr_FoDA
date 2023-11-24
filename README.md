@@ -11,7 +11,7 @@ I would like to express my gratitude to Associate Professor Giacomo Albi for pro
 Below is the list of topics covered in this repository, along with brief explanations and direct links to the Python notebooks:
 
 ### Singular Value Decomposition (SVD)
-- **DR_mnist.ipynb**: PCA Dimensionality reduction on MNIST dataset. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/DR_mnist.ipynb))
+- **DR_mnist.ipynb**: PCA Dimensionality reduction on MNIST dataset. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/DR_mnist.ipynb)
 - **SVD_Truncation.ipynb**: Implementing SVD truncation technique. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/SVD_Truncation.ipynb))
 - **SVD_randomized.ipynb**: Exploring randomized algorithms for SVD. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/SVD_randomized.ipynb))
 - **faces_SVD.ipynb**: Applying SVD to face image datasets. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/faces_SVD.ipynb))
