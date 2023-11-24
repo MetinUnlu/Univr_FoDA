@@ -12,11 +12,11 @@ Below is the list of topics covered in this repository, along with brief explana
 
 ### Singular Value Decomposition (SVD)
 - **DR_mnist.ipynb**: PCA Dimensionality reduction on MNIST dataset. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/DR_mnist.ipynb)
-- **SVD_Truncation.ipynb**: Implementing SVD truncation technique. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/SVD_Truncation.ipynb))
-- **SVD_randomized.ipynb**: Exploring randomized algorithms for SVD. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/SVD_randomized.ipynb))
-- **faces_SVD.ipynb**: Applying SVD to face image datasets. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/faces_SVD.ipynb))
-- **pseudoinv_example.ipynb**: Least-Squares Fitting Using Singular Value Decomposition. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/pseudoinv_example.ipynb))
-- **singlelayer_NN.ipynb**: Linear Classification using Pseudo-Inverse and Lasso Regularization [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/singlelayer_NN.ipynb))
+- **SVD_Truncation.ipynb**: Implementing SVD truncation technique. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/SVD_Truncation.ipynb)
+- **SVD_randomized.ipynb**: Exploring randomized algorithms for SVD. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/SVD_randomized.ipynb)
+- **faces_SVD.ipynb**: Applying SVD to face image datasets. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/faces_SVD.ipynb)
+- **pseudoinv_example.ipynb**: Least-Squares Fitting Using Singular Value Decomposition. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/pseudoinv_example.ipynb)
+- **singlelayer_NN.ipynb**: Linear Classification using Pseudo-Inverse and Lasso Regularization [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/singlelayer_NN.ipynb)
 
 ### Compressed Sensing
-- **signal_CS.ipynb**: Signal processing using compressed sensing. [[View Notebook]]([link-to-notebook](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/compressed_sensing/signal_CS.ipynb))
+- **signal_CS.ipynb**: Signal processing using compressed sensing. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/compressed_sensing/signal_CS.ipynb)
