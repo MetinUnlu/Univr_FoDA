@@ -4,7 +4,7 @@ University of Verona - Foundation of Data Analysis Course
 # Foundation of Data Analysis Course - Lab Studies
 
 Welcome to the GitHub repository for the Foundation of Data Analysis course at the University of Verona given. This repository contains Python translations and explanations of MATLAB lab studies provided in the course. Each script is supplemented with comments to elucidate the steps involved, as understood and interpreted by a fellow learner.
-I would like to express my gratitude to Associate Professor Giacomo Albi for providing the original MATLAB lab studies which form the basis of this repository. 
+I would like to express my gratitude to Associate Professor Giacomo Albi for providing the original MATLAB lab studies which form this repository. 
 
 ## Contents
 
