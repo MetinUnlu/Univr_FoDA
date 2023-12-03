@@ -18,5 +18,9 @@ Below is the list of topics covered in this repository, along with brief explana
 - **pseudoinv_example.ipynb**: Least-Squares Fitting Using Singular Value Decomposition. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/pseudoinv_example.ipynb)
 - **singlelayer_NN.ipynb**: Linear Classification using Pseudo-Inverse and Lasso Regularization [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/SVD/singlelayer_NN.ipynb)
 
+###
+- **recon_analytical_signal.ipynb**: Analyzing and visualizing signal frequencies   [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/fourier_transforms/recon_analytic_signal.ipynb)
+- **FFT_image_rec_comp.ipynb**: Image Processing and FFT   [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/fourier_transforms/FFT_image_rec_comp.ipynb)
+
 ### Compressed Sensing
 - **signal_CS.ipynb**: Signal processing using compressed sensing. [[View Notebook]](https://github.com/MetinUnlu/Univr_FoDA/blob/main/scripts/compressed_sensing/signal_CS.ipynb)
